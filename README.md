@@ -6,7 +6,7 @@ Table of Content
 * [Organization](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Organization-(Road-Map))
 * [People](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/People)
 * [Process](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Process)
-* [Technology](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Techn0logy)
+* [Technology](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Technology)
 * [Data](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Data)
 * [Governance](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Governance)
 * [Scope Management](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Scope-Management)
