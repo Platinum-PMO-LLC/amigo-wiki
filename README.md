@@ -3,7 +3,7 @@ Table of Content
 ### [Introduction](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Introduction)
 ##
 ### [Road Map](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Introduction)
-* [Organization](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Organization)
+* [Organization](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Organization-(Road-Map))
 * [People](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/People)
 * [Process](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Process)
 * [Technology](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Techn0logy)
