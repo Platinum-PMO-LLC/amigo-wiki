@@ -15,6 +15,8 @@ Table of Content
 * [Testing](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Testing)
 * [Operation Readiness](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Operational-Readiness)
 * [Time And Expense](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Time-and-Expense)
+* [RACI Chart](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/RACI-Chart)
+* [Users](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Users-(Detail-Page))
 * [Report and Dashboard](https://github.com/Platinum-PMO-LLC/amigo-wiki/wiki/Time-and-Expense)
 * [AMIGO Planner (Optional)](https://amigo.my.salesforce.com)
 ##
