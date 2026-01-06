@@ -1,0 +1,23 @@
+title: AMIGO Wiki
+description: AI Managed Implementation Governance Office - Documentation
+baseurl: "/amigo-wiki"
+url: "https://platinum-pmo-llc.github.io"
+
+# Theme configuration
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Exclude files from build
+exclude:
+  - README.md
+  - _Footer.md
+  - _Sidebar.md
+  - .gitignore
+  - resources/
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
