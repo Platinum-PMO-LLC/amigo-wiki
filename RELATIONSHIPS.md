@@ -1,3 +1,8 @@
+---
+layout: default
+title: Relationships
+---
+
 # BELDEN Domain Context Unified Relationship Documentation
 
 ## AI-Powered Query Generation Reference for AMIGO Platform

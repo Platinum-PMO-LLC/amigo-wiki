@@ -59,18 +59,9 @@ Your comprehensive documentation hub for the AMIGO platform - a Salesforce-based
 | Feature | Description |
 |---------|-------------|
 | [RACI Chart](RACI-Chart) | Responsibility assignment matrix |
+| [Relationships](RELATIONSHIPS) | Complete object relationship documentation |
 | [Users](Users-(Detail-Page)) | User management and access control |
 | [AMIGO Planner](https://amigo.my.salesforce.com) | Access the Salesforce platform |
-
----
-
-## All Pages
-
-{% for page in site.pages %}
-{% if page.title and page.url != "/" %}
-- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
-{% endif %}
-{% endfor %}
 
 ---
 
